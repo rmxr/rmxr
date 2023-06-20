@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Anton and I am a frontend developer 👋
+
+- 🤩 Fascinated with making interfaces for real-life applications
+- 🔭 I’m currently working on building my portfolio with pet projects
+- 🎯 Eager to work on commercial projects
+
 
 <!--
 **rmxr/rmxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
