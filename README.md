@@ -3,8 +3,12 @@
 - 🤩 Fascinated with making interfaces for real-life applications
 - 🔭 I’m currently working on building my portfolio with pet projects
 - 🎯 Eager to work on commercial projects
+- 🔗 Feel free to contact me at:
 
-<div>
+<div align="center"><a href="https://www.linkedin.com/in/anton-voytsekhovskiy/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://t.me/voyze"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></div>&nbsp;
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
